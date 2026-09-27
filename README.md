@@ -1,77 +1,67 @@
-#Dairy Goods Sales Dashboard | Excel & Power BI 🥛📊
+# 🥛 Dairy Goods Sales Dashboard | Excel & Power BI
 
-An interactive Power BI dashboard analyzing dairy goods sales, revenue, quantity sold, shelf life, storage conditions, sales channels, brands, and regional performance. Built to transform raw dairy sales data into clear business insights through interactive KPIs and visualizations.
+## 📌 Short Description
 
-Interactive Dairy Goods Sales Dashboard built with Power BI to analyze revenue, sales quantity, brands, regions, shelf life, storage conditions, and sales channels.
+An interactive Power BI dashboard designed to analyze dairy goods sales performance across brands, locations, sales channels, products, and storage conditions. The dashboard transforms raw sales data into meaningful business insights using KPIs and interactive visualizations.
 
-power-bi data-analytics data-visualization business-intelligence excel dashboard data-analysis dairy-sales sales-dashboard kpi portfolio-project
+## 🛠️ Tech Stack
 
-gave me the definition of short description. Title, explained.Add stack and also add heading of data source, data source is stable.Features.The questions which I have done in this. Dashboard.
+- **Power BI** – Dashboard development and data visualization
+- **Microsoft Excel** – Data cleaning and preprocessing
+- **Power Query** – Data transformation
+- **DAX** – Calculated measures and KPIs
+- **Data Analysis** – Sales, revenue, quantity, and shelf-life analysis
 
-Absolutely. For your Dairy Goods Dashboard, you can structure the GitHub README professionally like this. I’ll also include the business questions answered by the dashboard, based on the visuals in your screenshot.
+## 📂 Data Source
 
+**Kaggle – Dairy Goods Sales Dataset**
 
-#🛠️ Tech Stack
-Power BI – Dashboard development & data visualization
-Microsoft Excel – Data cleaning and preprocessing
-Power Query – Data transformation
-DAX – Calculated measures and KPIs
-Data Analysis – Sales, revenue, quantity, and shelf-life analysis
-#📊 Data Source
+The dataset contains information about dairy products, brands, locations, sales channels, quantity sold, revenue, shelf life, storage conditions, and farms.
 
-Kaggle – Dairy Goods Sales Dataset
+## ✨ Dashboard Features
 
-The dataset contains information related to dairy products, brands, locations, sales channels, quantity sold, revenue, shelf life, storage conditions, and farms.
+- 📊 Total Revenue KPI
+- 📦 Total Quantity Sold KPI
+- ⏳ Average Shelf Life
+- 🏭 Total Number of Farms
+- 💰 Revenue by Brand
+- 🛒 Revenue by Sales Channel
+- 🌎 Quantity Sold by Location
+- 🏷️ Quantity Sold by Location and Brand
+- 💵 Revenue comparison across locations
+- 🥛 Shelf Life by Product
+- ❄️ Average Shelf Life by Storage Condition
+- 🔍 Interactive filters and slicers
+- 📈 Regional and product-level sales analysis
 
-#✨ Dashboard Features
-📌 Total Revenue KPI
-📌 Total Quantity Sold KPI
-📌 Average Days of Shelf Life
-📌 Total Number of Farms
-📊 Revenue analysis by Brand
-📊 Revenue distribution by Sales Channel
-🌎 Quantity sold analysis by Location
-🏷️ Quantity sold by Location & Brand
-💰 Revenue comparison across different States
-🥛 Shelf-life analysis by Product
-❄️ Average shelf life based on Storage Condition
-🔍 Interactive Filters/Slicers for dashboard exploration
-📈 Visual comparison of regional and product-level performance
-❓ Business Questions Answered
+## ❓ Business Questions Answered
 
-#This dashboard was created to answer the following questions:
+1. What is the total revenue generated from dairy goods?
+2. What is the total quantity of dairy products sold?
+3. Which brands generate the highest revenue?
+4. Which sales channel contributes the most to total revenue?
+5. Which locations have the highest quantity of products sold?
+6. How does quantity sold vary across brands and locations?
+7. Which locations contribute the highest revenue?
+8. Which products have the longest and shortest shelf life?
+9. How does shelf life vary across different storage conditions?
+10. Which products have the highest shelf-life duration?
+11. How many farms are included in the dataset?
+12. What is the average shelf life of the dairy products?
+13. How are sales distributed across different locations?
+14. How does brand performance vary across different locations?
 
-What is the total revenue generated from dairy goods?
-How much total quantity of dairy products has been sold?
-Which dairy brands generate the highest revenue?
-Which sales channel contributes the most to total revenue?
-Retail
-Wholesale
-Online
-Which locations/states have the highest quantity of dairy products sold?
-How does the quantity sold vary across different brands and locations?
-Which states contribute the highest total revenue?
-Which dairy products have the longest and shortest shelf life?
-How does shelf life vary according to different storage conditions?
-Ambient
-Frozen
-Tetra Pack
-Refrigerated
-Polyethylene Pack
-Which products have the highest shelf-life duration?
-How many farms are included in the dataset?
-What is the average shelf life of the dairy products?
-How are sales distributed geographically across different states?
-How does brand performance vary from one location to another?
-📈 Key Dashboard KPIs
-KPI	Value
-Total Revenue	58.73M
-Average Shelf Life	29.13 days
-Total Quantity Sold	1M kg
-Total Farms	15
-🎯 Project Objective
+## 📊 Dashboard KPIs
 
-The objective of this project is to use business intelligence and data visualization to understand dairy sales performance and identify patterns in revenue, product demand, regional sales, sales channels, and shelf life.
-#AUTHOR
-SOMYA GUPTA
-This project demonstrates practical skills in Excel data preparation, Power BI dashboard development, DAX, data analysis, and business-oriented visualization.
+| KPI | Value |
+|---|---:|
+| 💰 Total Revenue | 58.73M |
+| ⏳ Average Shelf Life | 29.13 Days |
+| 📦 Total Quantity Sold | 1M kg |
+| 🏭 Total Farms | 15 |
+
+## 🎯 Project Objective
+
+The objective of this project is to analyze dairy goods sales data and identify patterns in revenue, product demand, regional performance, sales channels, brands, and shelf life.
+
+This project demonstrates practical skills in **Excel, Power BI, Power Query, DAX, data cleaning, data analysis, and business intelligence visualization**.

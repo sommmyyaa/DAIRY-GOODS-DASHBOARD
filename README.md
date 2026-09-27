@@ -72,7 +72,9 @@ This project demonstrates practical skills in **Excel, Power BI, Power Query, DA
 
 
 ##   SCREENSHOT OF THE DASHBOARD
+## 📊 Dashboard Preview
 
+<img src="./SCREENSHOT%20OF%20DASHBOARD.png" alt="Dairy Goods Sales Dashboard" width="100%">
 Show what the dashboard looks like. - L[PREVIEW](https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD/blob/main/SCREENSHOT%20OF%20DASHBOARD.png)
 
 

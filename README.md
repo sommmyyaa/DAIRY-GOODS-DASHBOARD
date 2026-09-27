@@ -34,7 +34,10 @@ The dataset contains information about dairy products, brands, locations, sales 
 - 🔍 Interactive filters and slicers
 - 📈 Regional and product-level sales analysis
 
-## ❓ Business Questions Answered
+##   SCREENSHOT OF THE DASHBOARD
+https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD/blob/main/SCREENSHOT%20OF%20DASHBOARD.png
+
+##   Business Questions Answered
 
 1. What is the total revenue generated from dairy goods?
 2. What is the total quantity of dairy products sold?

@@ -34,9 +34,6 @@ The dataset contains information about dairy products, brands, locations, sales 
 - 🔍 Interactive filters and slicers
 - 📈 Regional and product-level sales analysis
 
-##   SCREENSHOT OF THE DASHBOARD
-
-Show what the dashboard looks like. - L[PREVIEW](https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD/blob/main/SCREENSHOT%20OF%20DASHBOARD.png).
 
 ##   Business Questions Answered
 
@@ -69,3 +66,15 @@ Show what the dashboard looks like. - L[PREVIEW](https://github.com/sommmyyaa/DA
 The objective of this project is to analyze dairy goods sales data and identify patterns in revenue, product demand, regional performance, sales channels, brands, and shelf life.
 
 This project demonstrates practical skills in **Excel, Power BI, Power Query, DAX, data cleaning, data analysis, and business intelligence visualization**.
+
+
+
+
+
+##   SCREENSHOT OF THE DASHBOARD
+
+Show what the dashboard looks like. - L[PREVIEW](https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD/blob/main/SCREENSHOT%20OF%20DASHBOARD.png)
+
+
+
+

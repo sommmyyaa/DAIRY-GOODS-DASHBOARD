@@ -35,7 +35,8 @@ The dataset contains information about dairy products, brands, locations, sales 
 - 📈 Regional and product-level sales analysis
 
 ##   SCREENSHOT OF THE DASHBOARD
-https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD/blob/main/SCREENSHOT%20OF%20DASHBOARD.png
+
+Show what the dashboard looks like. - L[PREVIEW](https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD/blob/main/SCREENSHOT%20OF%20DASHBOARD.png).
 
 ##   Business Questions Answered
 
